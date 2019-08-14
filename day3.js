@@ -47,3 +47,31 @@ let favouriteWebsites = [
 //console.log(favouriteWebsites.unshift())
 //favouriteWebsites.sort()
 //console.log (favouriteWebsites)
+//const takeOrder = (size, drinkType) => {
+//    console.log(`Order recieved:  ${size} ${drinkType}`)
+//}
+//takeOrder ("Medium", "Hotchocolate");
+// let orderCount = 1;
+// const takeOrder = (topping1,topping2,topping3)  => {
+//     console.log(`pizza with ${topping1}, ${topping2} and ${topping3}, Order number: ${orderCount}.`);
+//     orderCount++
+// }
+// takeOrder("Sausages,Cheese,Tomatotes")
+// takeOrder("Cheese,Sausages,Tomatotes")
+// let accnumber = 50449921;
+// const cashWithdrawal = (300, 50449921) 
+// console.log(`withdrawaing  ${300} from account  ${50449921}`)
+
+let accnumber = 22343599
+let pin = 2231
+let amount = 50
+const cashWithdrawal = (pin, amount) => 
+console.log(`withdrawing ${60} from account ${2231}`)
+ if (pin == 2231 && amount <= balance)
+console.log("you have sufficient funds, please collect your cash from the dispencer")
+else if (pin != correction)
+ console.log("sorry, your pic is incorrect")
+ else if (pin == correctpin && amount > balance)
+
+console.log("your pin is correct, but you have insufficient funds to enable you to withdraw your money at this time") cashWithdrawal+(30,2231)
+ cashWithdrawal+(300,2231)
